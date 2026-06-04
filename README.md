@@ -89,7 +89,7 @@ Data preprocessing was performed using Python and Pandas.
 - Standardized text formatting
 - Validated data quality
 
-📄 **Jupyter Notebook File:** [`Data Cleaning File`](./scripts/data_cleaning.ipynb)
+📄 **Jupyter Notebook File:** [`Data Cleaning File`](./scripts/data_cleaning.ipynb)  
 📄 **Cleaned Data:** [`Data After Cleaning`](./data/cleaned/cleaned_bakery_sales.csv)
 
 ---
